@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     icon: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/125396872/original/abc3df2c178a6ee9e5b0cad41a69b49c4831a61f/make-a-meme-create-logo-or-do-some-simple-photoshop.png",
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
+    title: "KELOMPOK3",
     description: "AI-powered development with modern React stack",
     url: "https://chat.z.ai",
     siteName: "Z.ai",
