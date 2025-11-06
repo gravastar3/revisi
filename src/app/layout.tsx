@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "KELOMPOK3",
-    description: "AI-powered development with modern React stack",
+    description: "kelompok3",
     url: "https://chat.z.ai",
     siteName: "Z.ai",
     type: "website",
